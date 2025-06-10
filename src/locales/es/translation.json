@@ -1,0 +1,53 @@
+{
+  "nav.skills": "Habilidades",
+  "nav.experience": "Experiencia",
+  "nav.education": "Educación",
+  "nav.projects": "Proyectos",
+  "nav.contact": "Contacto",
+  "nav.certification": "Certificaciones y Extras",
+  "header.hi": "Hola, mi nombre es",
+  "header.name": "Luis Balam-Avila",
+  "header.role": "Construyo soluciones de software escalables.",
+  "header.description": "Ingeniero de Software Full-Stack con más de 8 años de experiencia desarrollando aplicaciones Java escalables en la nube para los sectores financiero, de salud y edtech. Experto en Spring Boot, Kafka, React y despliegues nativos en la nube (AWS, GCP, OCP). Reconocido por guiar a compañeros, implementar automatización CI/CD y lanzar sistemas listos para producción. En búsqueda activa de roles de ingeniería de nivel medio a senior en equipos enfocados en impacto.",
+  "section.skills.title": "Habilidades Técnicas",
+  "section.experience.title": "Experiencia",
+  "section.experience.lastjob.tag": "Último",
+  "section.education.title": "Educación",
+  "section.projects.title": "Proyectos",
+  "section.certification.title": "Certificaciones y Extras",
+  "education.title": "Licenciatura en Ingeniería en Computación",
+  "education.school": "Instituto Tecnológico de Mérida – Mérida, México",
+  "cert.title": "AWS Certified Cloud Practitioner",
+  "cert.detail": "Amazon Web Services | 2020 – 2023",
+  "contact.title": "Contáctame",
+  "contact.text": "Actualmente estoy abierto a nuevas oportunidades y colaboraciones. Ya sea que tengas una pregunta o solo quieras saludar, mi bandeja de entrada siempre está abierta.",
+  "contact.button": "Saludar",
+  "footer.rights": "Luis Balam-Avila —",
+  "switch.lang": "Switch to English",
+  "switch.lang.es": "Cambiar a Español",
+  "welcome": "Bienvenido a mi sitio",
+  "section.experience.valtech.details": [
+    "Entregué soluciones backend para Discover Financial Services, modernizando microservicios para la gestión de datos y perfiles de clientes.",
+    "Diseñé un servicio de migración usando Argo Workflows para mover registros de clientes de CassandraDB a Oracle, permitiendo consolidación de sistemas y ahorro de costos.",
+    "Migré servicios críticos de PCF a OpenShift (OCP) y mejoré la escalabilidad entre entornos.",
+    "Desarrollé un servicio centralizado con Spring Gateway, implementé auditorías basadas en Kafka y gestioné el versionado de esquemas con Flyway.",
+    "Implementé monitores y alertas con Datadog en más de 5 servicios para asegurar observabilidad y una rápida resolución de problemas.",
+    "Apliqué una estrategia de pruebas completa (unitarias, de integración, de rendimiento y contractuales) y promoví prácticas TDD en el equipo.",
+    "Mentoricé a desarrolladores junior mediante pair programming y demostraciones entre equipos sobre Argo, Flyway y despliegues canarios.",
+    "Redacté documentación técnica y participé en rotaciones on-call para garantizar la estabilidad en producción."
+  ],
+  "section.experience.4servsolutions.details": [
+    "Entregué proyectos de alto impacto para clientes como Ford Motor Company y un importante proveedor de servicios de salud.",
+    "En Ford: Modernicé sistemas internos (Mach1ML) construyendo APIs REST y componentes UI reutilizables en Angular. Escribí cobertura de pruebas completa en Java y Angular usando TDD. Colaboré con diseñadores UX y mantuve esquemas de base de datos en SQL Server.",
+    "En el proveedor de salud: Diseñé y desplegué un portal seguro en AWS usando Java 8, Spring Boot y Angular. Integré autenticación OAuth2 y programación automatizada con AWS S3 y RDS. Construí APIs REST y frameworks de pruebas con JUnit, Mockito y TestNG."
+  ],
+  "section.experience.grupokx.details": [
+    "Construí y escalé misionadmision.com, una plataforma de preparación para exámenes de admisión (100K+ usuarios), con pagos, lecciones interactivas, transmisiones en vivo y simulacros.",
+    "Diseñé un panel de métricas para que los docentes monitoreen el progreso estudiantil; redujo consultas manuales y mejoró el seguimiento académico.",
+    "Lideré la creación de un dashboard financiero y de marketing, permitiendo un crecimiento del 500% en membresías premium mediante insights estratégicos.",
+    "Desarrollé un ERP escolar (Rhino) con módulos para inscripciones, pagos, recursos humanos y programación.",
+    "Creé un sistema de reportes para padres usando AWS Lambda y S3, activado mensualmente por eventos, reduciendo llamadas de soporte y costos de infraestructura.",
+    "Trabajé en colaboración con diseñadores UX, docentes, recursos humanos, marketing y ventas para alinear funcionalidades con las necesidades del negocio y educativas."
+  ],
+  "section.projects.description": "- Sitio web de portafolio personal: https://luisbalamavila.dev – Construido con React y Tailwind CSS, alojado en Google Cloud Storage. Cuenta con un diseño limpio y adaptable que muestra experiencia profesional y proyectos técnicos. Integrado con CI/CD para actualizaciones continuas."
+}

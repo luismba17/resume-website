@@ -1,0 +1,53 @@
+{
+  "nav.skills": "Skills",
+  "nav.experience": "Experience",
+  "nav.education": "Education",
+  "nav.projects": "Projects",
+  "nav.contact": "Contact",
+  "nav.certification": "Certification & Extras",
+  "header.hi": "Hi, my name is",
+  "header.name": "Luis Balam-Avila",
+  "header.role": "I build scalable software solutions.",
+  "header.description": "Full-Stack Software Engineer with 8+ years of experience delivering scalable Java-based cloud applications across finance, health, and edtech domains. Expert in Spring Boot, Kafka, React, and cloud-native deployments (AWS, GCP, OCP). Known for mentoring peers, implementing CI/CD automation, and shipping production-ready systems. Actively pursuing mid-to-senior engineering roles with impact-driven teams.",
+  "section.skills.title": "Technical Skills",
+  "section.experience.title": "Experience",
+  "section.experience.lastjob.tag": "Latest",
+  "section.education.title": "Education",
+  "section.projects.title": "Projects",
+  "section.certification.title": "Certifications & Extras",
+  "education.title": "Bachelor of Science in Computer Engineering",
+  "education.school": "Instituto Tecnológico de Mérida – Mérida, México",
+  "cert.title": "AWS Certified Cloud Practitioner",
+  "cert.detail": "Amazon Web Services | 2020 – 2023",
+  "contact.title": "Get in Touch",
+  "contact.text": "I’m currently open to new opportunities and collaborations. Whether you have a question or just want to say hi, my inbox is always open.",
+  "contact.button": "Say Hello",
+  "footer.rights": "Luis Balam-Avila —",
+  "switch.lang": "Switch to English",
+  "switch.lang.es": "Cambiar a Español",
+  "welcome": "Welcome to my site",
+  "section.experience.valtech.details": [
+    "Delivered backend solutions for Discover Financial Services, modernizing microservices for customer data and profile management.",
+    "Designed a migration service using Argo Workflows to move customer records from CassandraDB to Oracle, enabling system consolidation and cost savings.",
+    "Migrated critical services from PCF to OpenShift (OCP) and enhanced scalability across environments.",
+    "Developed a centralized Spring Gateway service, implemented Kafka-based auditing, and managed schema versioning with Flyway.",
+    "Implemented Datadog monitors and alerting across 5+ services to ensure observability and fast issue resolution.",
+    "Applied full testing strategy (unit, integration, performance, contract) and promoted TDD practices across the team.",
+    "Mentored junior developers through pair programming and cross-team demos introducing Argo, Flyway, and canary deployments.",
+    "Authored technical documentation and participated in on-call rotations to ensure production stability."
+  ],
+  "section.experience.4servsolutions.details": [
+    "Delivered high-impact projects for clients including Ford Motor Company and a major health provider.",
+    "At Ford: Modernized internal systems (Mach1ML) by building RESTful APIs and reusable Angular UI components. Wrote full test coverage in Java and Angular using TDD. Collaborated with UX designers and maintained database schemas in SQL Server.",
+    "At health provider: Designed and deployed a secure AWS-hosted healthcare portal using Java 8, Spring Boot, and Angular. Integrated OAuth2 authentication and automated scheduling using AWS S3 and RDS. Built REST APIs and testing frameworks using JUnit, Mockito, and TestNG."
+  ],
+  "section.experience.grupokx.details": [
+    "Built and scaled misionadmision.com, a high school test prep learning platform (100K+ users), with payment processing, interactive lessons, live streams, and exam simulations.",
+    "Designed a metrics dashboard for teachers to monitor student progress; reduced manual queries and improved academic tracking.",
+    "Led creation of a financial/marketing dashboard, enabling a 500% growth in premium memberships through targeted insights.",
+    "Developed a school ERP (Rhino) with modules for registrations, payments, HR, and scheduling.",
+    "Created a parent-facing reporting system using AWS Lambda and S3, triggered monthly via events, reducing support calls and infrastructure costs.",
+    "Worked cross-functionally with UX designers, teachers, HR, marketing, and sales teams to align product features with business and educational needs."
+  ],
+  "section.projects.description": "- Personal Portfolio Website: https://luisbalamavila.dev – Built using React and Tailwind CSS, hosted on Google Cloud Storage. Features a clean, responsive layout showcasing professional experience and technical projects. Integrated with CI/CD for continuous updates."
+}
