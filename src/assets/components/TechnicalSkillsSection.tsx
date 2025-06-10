@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useTranslation } from 'react-i18next';
-import skills from "../../skills.json";
+import skills from "../../skills";
 import Card from "./Card";
 
 
