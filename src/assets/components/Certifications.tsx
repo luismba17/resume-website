@@ -22,24 +22,37 @@ export default function Certifications() {
             </h2>
             <div className="grid md:grid-cols-2 gap-10 max-w-5xl mx-auto">
                 <Card
-                    title="AWS Certified Cloud Practitioner"
-                    description="Amazon Web Services | 2020 – 2023"
-                    icon={
-                        <img
-                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?20170912170050"
-                            alt="AWS Logo"
-                            className="w-20 h-14 mb-4" />
-                    } />
+                                    title="Google Cloud Professional Cloud Architect"
+                                    description="Google Cloud Platform | 2025 – 2027"
+                                    url="https://www.credly.com/badges/621d2dd2-748d-4a78-ad51-8afe96bbb24d/public_url"
+                                    icon={
+                                        <img
+                                            src="https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png"
+                                            alt="Google Cloud Logo"
+                                            className="w-18 h-14 mb-4"
+                                        />
+                                    } />
 
                 <Card
-                    title="Google Cloud Associate Cloud Engineer"
-                    description="Google Cloud Platform | 2025 – 2028"
+                                    title="Google Cloud Associate Cloud Engineer"
+                                    description="Google Cloud Platform | 2025 – 2028"
+                                    url="https://www.credly.com/badges/1fc4d47b-4d24-40c1-a9a7-dde946f19684/public_url"
+                                    icon={
+                                        <img
+                                            src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png"
+                                            alt="Google Cloud Logo"
+                                            className="w-18 h-14 mb-4"
+                                        />
+                                    } />
+                <Card
+                    title="AWS Certified Cloud Practitioner"
+                    description="Amazon Web Services | 2020 – 2023"
+                    url="https://www.credly.com/badges/8c2d0e09-6022-4b7a-8e0c-59b112a72f88/public_url"
                     icon={
                         <img
-                            src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png"
-                            alt="Google Cloud Logo"
-                            className="w-18 h-14 mb-4"
-                        />
+                            src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+                            alt="AWS Logo"
+                            className="w-20 h-14 mb-4" />
                     } />
             </div>
 
